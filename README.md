@@ -14,12 +14,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - The sprite images are © Nintendo/Creatures Inc./GAME FREAK Inc.
-- Sprite images were sourced from [PokéSprite]([URL](https://github.com/msikma/pokesprite.git)), which is licensed under the MIT License.
+- Sprite images were sourced from [PokéSprite](https://github.com/msikma/pokesprite.git), which is licensed under the MIT License.
 
 
 MIT License
 
-Copyright (c) 2024 [leeebeda]
+Copyright (c) 2024 [leeebeda](https://github.com/leeebeda)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
